@@ -30,6 +30,16 @@ BMI provides an index to evaluate a person's weight in relation to their height.
 2. **Enter Weight (kg):** Input the person's weight in kilograms.
 3. **Click the Calculate Button:** The BMI result will be displayed instantly.
 
+### Bazal Metabolic Rate (BMR) Calculation
+
+BMR is the amount of energy expended while at rest in a neutrally temperate environment. It's an estimate of how many calories your body needs to perform basic functions. To calculate BMR, follow these steps:
+
+1. **Select Gender:** Choose either "Male" or "Female."
+2. **Enter Age:** Input the person's age.
+3. **Enter Weight (kg):** Input the person's weight in kilograms.
+4. **Enter Height (cm):** Input the person's height in centimeters.
+5. **Click the Calculate Button:** The BMR result will be displayed instantly.
+
 ### Body Fat Percentage Calculation
 
 Body fat percentage can be estimated using measurements such as neck circumference, waist circumference, hip circumference, etc. To calculate, follow these steps:
